@@ -1,4 +1,4 @@
-# Portfolio Website Builder (MERN Stack)
+MERN Port polio Builder 
 
 A full-stack web application that allows users to create, preview, and publish personal portfolio websites using pre-built React templates.
 
