@@ -2,7 +2,7 @@ MERN Port polio Builder
 
 A full-stack web application that allows users to create, preview, and publish personal portfolio websites using pre-built React templates.
 
-This project was developed as part of a hiring assignment and demonstrates complete end-to-end full-stack development using the **MERN stack (MongoDB Atlas, Express, React, Node.js)**.
+ **MERN stack (MongoDB Atlas, Express, React, Node.js)**.
 
 ---
 
